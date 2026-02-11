@@ -1,0 +1,36 @@
+General
+Complete name                            : D:\Projects\DS9_LaserDisc_Upscale\S01E01\DS9-S01E01_01_raw-ld.mov
+Format                                   : MPEG-4
+Format profile                           : QuickTime
+Codec ID                                 : qt   0000.02 (qt  )
+File size                                : 23.7 GiB
+Duration                                 : 49 min 12 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 69.0 Mb/s
+Frame rate                               : 29.970 FPS
+Writing application                      : Lavf62.6.103
+
+Video
+ID                                       : 1
+Format                                   : ProRes
+Format version                           : Version 0
+Format profile                           : 422 HQ
+Codec ID                                 : apch
+Duration                                 : 49 min 12 s
+Bit rate mode                            : Variable
+Bit rate                                 : 69.0 Mb/s
+Width                                    : 760 pixels
+Height                                   : 488 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Scan type                                : Interlaced
+Original scan type                       : Progressive
+Scan type, store method                  : Interleaved fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 6.205
+Stream size                              : 23.7 GiB (100%)
+Writing library                          : ap10
+

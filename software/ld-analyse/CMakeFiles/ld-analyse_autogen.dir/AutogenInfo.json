@@ -1,0 +1,296 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/build/tools/ld-analyse/ld-analyse_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/build/tools/ld-analyse",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/CMakeLists.txt",
+		"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/ld-analyse-resources.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/build/tools/ld-analyse/ld-analyse_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "ld-analyse_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/aboutdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_aboutdialog.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/blacksnranalysisdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_blacksnranalysisdialog.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/busydialog.h",
+			"MU",
+			"EWIEGA46WW/moc_busydialog.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/chromadecoderconfigdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_chromadecoderconfigdialog.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/closedcaptionsdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_closedcaptionsdialog.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/configuration.h",
+			"MU",
+			"EWIEGA46WW/moc_configuration.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/dropoutanalysisdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_dropoutanalysisdialog.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/oscilloscopedialog.h",
+			"MU",
+			"EWIEGA46WW/moc_oscilloscopedialog.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/tbcsource.h",
+			"MU",
+			"EWIEGA46WW/moc_tbcsource.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/vbidialog.h",
+			"MU",
+			"EWIEGA46WW/moc_vbidialog.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/vectorscopedialog.h",
+			"MU",
+			"EWIEGA46WW/moc_vectorscopedialog.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/videoparametersdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_videoparametersdialog.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/visibledropoutanalysisdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_visibledropoutanalysisdialog.cpp",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/whitesnranalysisdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_whitesnranalysisdialog.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/build/tools/ld-analyse/ld-analyse_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/build/tools/ld-analyse/ld-analyse_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"APP_BRANCH=\"vhs_decode\"",
+		"APP_COMMIT=\"4e45bff1\"",
+		"MINGW_HAS_SECURE_API=1",
+		"NOMINMAX",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NEEDS_QMAIN",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"QUSB_LIBRARY",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"WINVER=0x0A00",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_USE_MATH_DEFINES",
+		"_WIN32_WINNT=0x0A00",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/msys64/mingw64/include/qwt-qt6",
+		"C:/msys64/mingw64/include/qt6/QtConcurrent",
+		"C:/msys64/mingw64/include/qt6",
+		"C:/msys64/mingw64/include/qt6/QtPrintSupport",
+		"C:/msys64/mingw64/include/qt6/QtWidgets",
+		"C:/msys64/mingw64/include/qt6/QtSvg",
+		"C:/msys64/mingw64/include/qt6/QtOpenGL",
+		"C:/msys64/mingw64/include/qt6/QtGui",
+		"C:/msys64/mingw64/include/qt6/QtCore",
+		"C:/msys64/mingw64/share/qt6/mkspecs/win32-g++",
+		"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/library/filter",
+		"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/library/tbc",
+		"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-chroma-decoder",
+		"C:/msys64/mingw64/include/qt6/QtCore",
+		"C:/msys64/mingw64/include/qt6",
+		"C:/msys64/mingw64/share/qt6/mkspecs/win32-g++",
+		"C:/msys64/mingw64/include/qt6/QtGui",
+		"C:/msys64/mingw64/include/qt6/QtWidgets",
+		"C:/msys64/mingw64/include",
+		"C:/msys64/mingw64/include/c++/15.2.0",
+		"C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32",
+		"C:/msys64/mingw64/include/c++/15.2.0/backward",
+		"C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include",
+		"C:/msys64/mingw64/include",
+		"C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/msys64/mingw64/bin/c++.exe",
+		"-std=c++17",
+		"-w",
+		"-dM",
+		"-E",
+		"C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/build/tools/ld-analyse/ld-analyse_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/build/tools/ld-analyse/qrc_ld-analyse-resources.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/build/tools/ld-analyse/CMakeFiles/ld-analyse_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/msys64/mingw64/share/qt6/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/msys64/mingw64/share/qt6/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 10,
+	"SETTINGS_FILE" : "D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/build/tools/ld-analyse/CMakeFiles/ld-analyse_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/aboutdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/blacksnranalysisdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/busydialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/chromadecoderconfigdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/closedcaptionsdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/configuration.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/dropoutanalysisdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/oscilloscopedialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/tbcsource.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/vbidialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/vectorscopedialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/videoparametersdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/visibledropoutanalysisdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/tools/ld-analyse/whitesnranalysisdialog.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"D:/Projects/DS9.LaserDisc.Upscale/software/vhs-decode/build/tools/ld-analyse/qrc_ld-analyse-resources.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

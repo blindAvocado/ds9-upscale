@@ -1,0 +1,39 @@
+General
+Complete name                            : D:\Projects\DS9_LaserDisc_Upscale\S01E01\DS9-S01E01_03_topaz-upscale.mov
+Format                                   : MPEG-4
+Format profile                           : QuickTime
+Codec ID                                 : qt   0000.02 (qt  )
+File size                                : 137 GiB
+Duration                                 : 49 min 12 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 398 Mb/s
+Frame rate                               : 23.976 FPS
+minor_version                            : 512
+major_brand                              : qt  
+compatible_brands                        : qt  
+videoai                                  : Enhanced using prob-4; mode: manual; revert compression at 8; recover details at 7; sharpen at 5; reduce noise at 6; dehalo at 4; anti-alias/deblur at -17; focus fix Off; and recover original detail at 20. Changed resolution to 3040x1920
+encoder                                  : Lavf62.4.100
+
+Video
+ID                                       : 1
+Format                                   : ProRes
+Format version                           : Version 0
+Format profile                           : 422 HQ
+Codec ID                                 : apch
+Duration                                 : 49 min 12 s
+Bit rate mode                            : Variable
+Bit rate                                 : 398 Mb/s
+Width                                    : 3 040 pixels
+Height                                   : 1 920 pixels
+Display aspect ratio                     : 16:10
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 2.840
+Stream size                              : 137 GiB (100%)
+Writing library                          : Apple
+Color primaries                          : BT.709
+Matrix coefficients                      : BT.709
+
