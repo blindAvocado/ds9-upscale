@@ -1,11 +1,33 @@
-Pulldown Visualizer is a web-based Electron app that I have quickly written (may encounter bugs) to examine filled frame ranges for specific maps.
-How to use: Select your default map from the dropdown. Enter total number of frames in an episode. Import map files, which the app would now track for any changes and update the timeline dynamically.
+# Software Tools
 
-I also use a custom ld-anaylse tool from vhs-encode repository on Github. This one contains two additional options suggested by the author of DS9 Redefined blog: --adapt-threshold and --chroma-weight
-Along with ld-analyse you need a custom ld-chroma-decoder tool which also contains these two options.
+This directory contains custom-built tools and references to external software used in the DS9 upscaling pipeline.
 
-LosslessCut is also a handful program, which allows to trim/cut video file at a keyframe without re-encoding it. At the moment of writing this file (12-feb-2026) it does however break FPS metadata and shows mind-boggling numbers like 3000 FPS -- the video stream itself is completely fine though. Just thought to mention this to avoid any confusion.
+## Included Tools
 
-AvsPmod - a must have for real-time preview of AVS script output. This is where you map your episode frames to correct pulldowns to fix interlacing artifcats.
+### Pulldown Visualizer
+A web-based Electron app for managing IVTC frame mapping files. May have bugs since it was quickly put together, but it gets the job done.
 
-For handling AVS scripts I use AviSynth+ 64 bit.
+**How to use:**
+1. Select your default pulldown map from the dropdown
+2. Enter the total number of frames in the episode
+3. Import your map files - the app tracks changes and updates the timeline dynamically
+
+### Custom ld-chroma-decoder & ld-analyse
+Modified builds from the vhs-decode repository on GitHub. These versions include two additional options suggested by the DS9 Redefined blog author:
+- `--adapt-threshold` - adaptive threshold control for better decoding
+- `--chroma-weight` - chroma weighting adjustment
+
+Both tools need these custom builds to work with the Stage 2 processing script.
+
+## External Tools Required
+
+### AviSynth+ 64-bit
+The core script processor. All `.avs` files in this project require AviSynth+ to run.
+
+### AvsPmod
+Essential for real-time preview of AviSynth script output. This is where you'll spend most of your time mapping episode frames to the correct pulldown patterns to eliminate interlacing artifacts.
+
+### LosslessCut
+A very useful program for trimming/cutting video files at keyframes without re-encoding.
+
+**Known issue:** As of writing this document (12-feb-2026), LosslessCut/ffmpeg breaks FPS metadata when cutting files - you might see absurd numbers like 3000 FPS in the file properties. The actual video stream is completely fine, it's just the metadata that's wrong.
